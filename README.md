@@ -6,7 +6,7 @@
 
 ⚡ GitHub Activity Graph:
   <br/>
-   <a href="https://github.com/HxnDev"><img alt="Hxn's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HxnDev&custom_title=Hassan%20Shahzad's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/ibadsaleem"><img alt="Ibad Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ibadsaleem&custom_title=IbadSaleem's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
  
 
